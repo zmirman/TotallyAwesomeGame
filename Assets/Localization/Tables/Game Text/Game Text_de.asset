@@ -1,0 +1,354 @@
+MonoBehaviour:
+  m_CorrespondingSourceObject:
+    fileID: 0
+  m_EditorClassIdentifier: null
+  m_EditorHideFlags: 0
+  m_Enabled: 1
+  m_GameObject:
+    fileID: 0
+  m_LocaleId:
+    m_Code: en
+  m_Metadata:
+    m_Items: []
+  m_Name: Game Text_de
+  m_ObjectHideFlags: 0
+  m_PrefabAsset:
+    fileID: 0
+  m_PrefabInstance:
+    fileID: 0
+  m_Script:
+    fileID: 11500000
+    guid: e9620f8c34305754d8cc9a7e49e852d9
+    type: 3
+  m_SharedData:
+    fileID: 11400000
+    guid: 6def7e6a8fc31461fb80c6136fc1a913
+    type: 2
+  m_TableData:
+  - m_Id: '14012112896'
+    m_Localized: "F\xE4higkeitenauswahl"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '279166384594944'
+    m_Localized: Kaufen
+    m_Metadata:
+      m_Items: []
+  - m_Id: '2330958225408'
+    m_Localized: Regeneration
+    m_Metadata:
+      m_Items: []
+  - m_Id: '6373831073792'
+    m_Localized: Upgrades
+    m_Metadata:
+      m_Items: []
+  - m_Id: '11462826254336'
+    m_Localized: "Erh\xF6hter Fl\xE4chenschaden"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '1544433950720'
+    m_Localized: "Chance, bei verursachtem Schaden Gesundheit zur\xFCckzugewinnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '4334879236096'
+    m_Localized: Schwert
+    m_Metadata:
+      m_Items: []
+  - m_Id: '10576473350144'
+    m_Localized: Bewegungsgeschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '8946122219520'
+    m_Localized: "Gl\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '4967288004608'
+    m_Localized: Bazooka
+    m_Metadata:
+      m_Items: []
+  - m_Id: '4351253798912'
+    m_Localized: Angriffe nur nach links und rechts
+    m_Metadata:
+      m_Items: []
+  - m_Id: '21259870208'
+    m_Localized: Bumerang
+    m_Metadata:
+      m_Items: []
+  - m_Id: '702691663872'
+    m_Localized: Lichtschwert
+    m_Metadata:
+      m_Items: []
+  - m_Id: '345211782815744'
+    m_Localized: Erneut versuchen
+    m_Metadata:
+      m_Items: []
+  - m_Id: '1437881851904'
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: '123168874496'
+    m_Localized: "R\xFCstung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '7889975500800'
+    m_Localized: Explodiert in alle Richtungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: '11626425081856'
+    m_Localized: Projektilanzahl
+    m_Metadata:
+      m_Items: []
+  - m_Id: '9000874663936'
+    m_Localized: "R\xFCcksto\xDF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '1425428963328'
+    m_Localized: Lebensraub
+    m_Metadata:
+      m_Items: []
+  - m_Id: '4033036148736'
+    m_Localized: Nahkampfangriff mit Blutung
+    m_Metadata:
+      m_Items: []
+  - m_Id: '344416857350144'
+    m_Localized: Spiel beendet
+    m_Metadata:
+      m_Items: []
+  - m_Id: '28814192140288'
+    m_Localized: "Erh\xF6hte Bewegungsgeschwindigkeit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '193561878528'
+    m_Localized: Bumerang-Angriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: '10870678609920'
+    m_Localized: "R\xFCstung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '8811413757952'
+    m_Localized: "Fl\xE4chenschaden"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '11519172534272'
+    m_Localized: Erholung
+    m_Metadata:
+      m_Items: []
+  - m_Id: '10209987649536'
+    m_Localized: Blutungsdauer
+    m_Metadata:
+      m_Items: []
+  - m_Id: '7910674391040'
+    m_Localized: Molotow
+    m_Metadata:
+      m_Items: []
+  - m_Id: '7050871431168'
+    m_Localized: Axt
+    m_Metadata:
+      m_Items: []
+  - m_Id: '4999026302976'
+    m_Localized: "Fernbereichs-Fl\xE4chenangriff"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '28001675763712'
+    m_Localized: Schaden+
+    m_Metadata:
+      m_Items: []
+  - m_Id: '3436413181952'
+    m_Localized: Fledermaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: '9701361180672'
+    m_Localized: Blutungsschaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: '9221390196736'
+    m_Localized: Projektilgeschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '27185514536960'
+    m_Localized: Abklingzeit+
+    m_Metadata:
+      m_Items: []
+  - m_Id: '29946226401280'
+    m_Localized: "Erh\xF6hter R\xFCcksto\xDF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '3524413874176'
+    m_Localized: "Nahkampfangriff mit R\xFCcksto\xDF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '28005144453120'
+    m_Localized: "Erh\xF6hter Angriffsschaden"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '7923844505600'
+    m_Localized: "Erzeugt Feuerpf\xFCtzen auf dem Boden"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '1050382688256'
+    m_Localized: Machete
+    m_Metadata:
+      m_Items: []
+  - m_Id: '847437094912'
+    m_Localized: Bumerang-Angriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: '123949015040'
+    m_Localized: Super Geniales Spiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: '142525587456'
+    m_Localized: "Startf\xE4higkeiten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '29846494240768'
+    m_Localized: "R\xFCcksto\xDF+"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '216085291008'
+    m_Localized: Angriffsgeschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '30472754159616'
+    m_Localized: Projektile+
+    m_Metadata:
+      m_Items: []
+  - m_Id: '11456790650880'
+    m_Localized: AOE+
+    m_Metadata:
+      m_Items: []
+  - m_Id: '344185872834560'
+    m_Localized: Level abgeschlossen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: '30492345753600'
+    m_Localized: "Erh\xF6hte Projektilgeschwindigkeit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '1708468985856'
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '28344049664'
+    m_Localized: 8f586378b4e144a9851e7b34d9b748ee
+    m_Metadata:
+      m_Items: []
+  - m_Id: '6587841241088'
+    m_Localized: Wurfstern
+    m_Metadata:
+      m_Items: []
+  - m_Id: '54847856640'
+    m_Localized: Gesundheit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '286365571866624'
+    m_Localized: "Ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '68219297792'
+    m_Localized: Geschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '5393987133440'
+    m_Localized: AK-47
+    m_Metadata:
+      m_Items: []
+  - m_Id: '6604362604544'
+    m_Localized: Schnell hintereinander geworfen
+    m_Metadata:
+      m_Items: []
+  - m_Id: '334637481058304'
+    m_Localized: Charakterauswahl
+    m_Metadata:
+      m_Items: []
+  - m_Id: '47161919135744'
+    m_Localized: "Ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '28807695163392'
+    m_Localized: Geschwindigkeit+
+    m_Metadata:
+      m_Items: []
+  - m_Id: '4023905148928'
+    m_Localized: Dolch
+    m_Metadata:
+      m_Items: []
+  - m_Id: '7868966232064'
+    m_Localized: Granate
+    m_Metadata:
+      m_Items: []
+  - m_Id: '30488721874944'
+    m_Localized: Projektilgeschwindigkeit+
+    m_Metadata:
+      m_Items: []
+  - m_Id: '17051954438144'
+    m_Localized: "R\xFCstung+"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '64544616472576'
+    m_Localized: "Aufr\xFCsten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '737600856064'
+    m_Localized: Waffenabklingzeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '1150563639296'
+    m_Localized: Bumerang-Angriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: '6876853952512'
+    m_Localized: Erholungszeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '2346053525504'
+    m_Localized: Regeneriere im Laufe der Zeit Gesundheit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '10056884224'
+    m_Localized: Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: '27191411728384'
+    m_Localized: Verringerte Angriffsabklingzeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '17059760037888'
+    m_Localized: Feste Schadensreduzierung
+    m_Metadata:
+      m_Items: []
+  - m_Id: '10662871818240'
+    m_Localized: Rotationsgeschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: '5889980358656'
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: '30477896376320'
+    m_Localized: "Erh\xF6hte Projektilanzahl"
+    m_Metadata:
+      m_Items: []
+  - m_Id: '9380824080384'
+    m_Localized: Wiederherstellungschance
+    m_Metadata:
+      m_Items: []
+  - m_Id: '5398001082368'
+    m_Localized: Schneller, schwacher Angriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: '7053991993344'
+    m_Localized: Umkreist den Spieler
+    m_Metadata:
+      m_Items: []
+  - m_Id: '8603938316288'
+    m_Localized: Dauer
+    m_Metadata:
+      m_Items: []
+  - m_Id: '10005917982720'
+    m_Localized: Blutungsrate
+    m_Metadata:
+      m_Items: []
+  references:
+    RefIds: []
+    version: 2
