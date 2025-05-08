@@ -40,5 +40,10 @@ MonoBehaviour:
           - en
           - zh
           - zh-Hant
+          - fr
+          - de
+          - it
+          - ja
+          - ko
         m_TypeString: TMPro.TMP_FontAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
           PublicKeyToken=null
