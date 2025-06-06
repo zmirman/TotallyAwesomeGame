@@ -19,15 +19,19 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 123949015040
-    m_Localized: Super Geniales Spiel
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1437881851904
-    m_Localized: Start
+    m_Localized: Super Tolles Spiel
     m_Metadata:
       m_Items: []
   - m_Id: 5889980358656
     m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334637481058304
+    m_Localized: Charakterauswahl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1437881851904
+    m_Localized: Starten
     m_Metadata:
       m_Items: []
   - m_Id: 6373831073792
